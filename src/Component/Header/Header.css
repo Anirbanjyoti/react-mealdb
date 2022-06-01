@@ -1,0 +1,12 @@
+nav {
+    margin-bottom: 50px;
+}
+nav a {
+    text-decoration: none;
+    margin-right: 15px;
+    padding: 10px 30px;
+    background: burlywood;
+    border-radius: 5px;
+    font-size: 20px;
+    font-weight: 700;
+}

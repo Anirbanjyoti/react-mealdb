@@ -1,0 +1,9 @@
+.meal-container {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    padding: 35px;
+    gap: 2em;
+}
+.meal-container img {
+    width: 100%;
+}
